@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "782496346844",
+    "firebase_url": "https://food-screen-list.firebaseio.com",
+    "project_id": "food-screen-list",
+    "storage_bucket": "food-screen-list.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782496346844:android:51ac002e5aea8356a1ba19",
+        "android_client_info": {
+          "package_name": "com.example.bkfoodcourt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782496346844-h7gk1pnti262npb22fdmpm11b0cms24s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBizX6f3NkyBEAlBKbhjB1m9nIMYHuJ39g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782496346844-h7gk1pnti262npb22fdmpm11b0cms24s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
